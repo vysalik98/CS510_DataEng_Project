@@ -15,7 +15,6 @@ Part 2: Focus on efficient batch processing of data, Performing Data Validation 
 Part 3: Gathering Stop Events Data, implementation of Kafka Producer and Consumer Modules, new Data Validation and Transformation, Loading to Database, perform join operation across different tables, creating views and enabling data visualizations for deeper insights.
 
 ### Key Achievements
-Markup : 
 * Real-time ingestion and processing of TriMet GPS sensor data.
 * Utilization of Confluent Kafka for scalable and fault-tolerant data handling.
 * Efficient batch processing to reduce data latency.
